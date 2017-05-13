@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GPSApp</string>
+    <string name="start">Start</string>
+    <string name="unit">m</string>
+    <string name="zero">0</string>
+    <string name="stop">Stop</string>
+    <string name="input_goal">Input goal</string>
+</resources>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\xiaox\.android\build-cache\aa7cb9bc04abeb3a0b00efe32eabf939ff2e54f6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\mnt\develop\Android\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aa32d20b8f3ccff1f43ceb62c74b2bce79c9592a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xiaox\.android\build-cache\b8ee922f00a8923714302e6e4e0f18c541c73efa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\mnt\develop\Android\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3d2d3a54da912feb0f9e637714db6c373c04c913\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xiaox\.android\build-cache\06a949ceaa6c17db3d03eb2bb27adac6d7aeb818\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\mnt\develop\Android\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_20dc06b9c2949c376ac7c96a5ff1dacfa68b8778\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xiaox\.android\build-cache\b4e854dce96d7bc15e36e339d8c170118b22edef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\mnt\develop\Android\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8a7327531552f34e24140f0d7e41681fbad91e3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xiaox\.android\build-cache\9514e7b2325cf1b89c11f9b45619a5d4ca36e122\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\mnt\develop\Android\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fa7a3a11799b47f14fa2ccf28fd875329e6ddb59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xiaox\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\mnt\develop\Android\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_a6c25181ba0cd722fb7dd366cef3e91ec423741f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xiaox\.android\build-cache\54612552c011d0a1a9ccf8b22b489904f91e721c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\mnt\develop\Android\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b87439d0ccc0d7774c33c4e86b6b8e4cc168cd3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xiaox\.android\build-cache\93753e47eebcd38bad6bd70dccc49d77dbc657ef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\mnt\develop\Android\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3b543165e352583b8e95de43e7eab8f9432a1f2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\mnt\develop\Android\GPSApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\mnt\develop\Android\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b821c6a1a0f0df34315dbfb377bfc89e8ee8f21b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\mnt\develop\Android\GPSApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="143712508699699bbd62aae22b4697a9b26963ab">
+        <dex dex="C:\mnt\develop\Android\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1d222d47dd3b1b157effedda907d9886ab00de1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xiaox\.android\build-cache\4eef5f985f222ca6295673a812c0ac725e94f4b7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\mnt\develop\Android\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1f130274b1ff679242a9e897638d2480b0042bb4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xiaox\.android\build-cache\6c7114c15a862e51c7effee94009f76892401ee7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\mnt\develop\Android\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6fbc83159c63184387ee6f8037a2b0686b880825\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xiaox\.android\build-cache\29da11c30b2bb9ab55498802cf0cbcf0952f9e81\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\mnt\develop\Android\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_08f649ba80b6f766e8af1030c68db97eca104503\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xiaox\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\mnt\develop\Android\GPSApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_9f88b2ca6fddacc680d8f4ed2960ea387c43408f\classes.dex" />
+    </item>
+
+</items>
